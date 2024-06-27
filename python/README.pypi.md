@@ -18,7 +18,7 @@ notebooks. See the example notebooks in the directory [examples/](examples/).
 the latest, unreleased source in Github. The notebooks in the [tests/](tests/)
 directory use this method.
 
-The directory [scripts/](scripts/) contains turnkey scripts for common
+The directory [scripts/](../scripts/) contains turnkey scripts for common
 developer tasks such as building and uploading the Python distribution package.
 
 ### Build and upload package to TestPyPI
